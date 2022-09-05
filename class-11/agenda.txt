@@ -1,0 +1,7 @@
+1. Hand out the printout - go over the instructions and show examples
+
+2. Show the Tools > Beginners Challenges
+
+3. Erase the turtle and make some pictures. run the first animation - 'rotate rectange animation.kojo'
+
+Exercise: animate some of the graphics from previous lessons
